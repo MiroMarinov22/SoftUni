@@ -1,0 +1,15 @@
+C:\Users\Jorov\source\repos\Programming for QA with C#\ExamPrep\Test 2\bin\Debug\net6.0\Test 2.exe
+C:\Users\Jorov\source\repos\Programming for QA with C#\ExamPrep\Test 2\bin\Debug\net6.0\Test 2.deps.json
+C:\Users\Jorov\source\repos\Programming for QA with C#\ExamPrep\Test 2\bin\Debug\net6.0\Test 2.runtimeconfig.json
+C:\Users\Jorov\source\repos\Programming for QA with C#\ExamPrep\Test 2\bin\Debug\net6.0\Test 2.dll
+C:\Users\Jorov\source\repos\Programming for QA with C#\ExamPrep\Test 2\bin\Debug\net6.0\Test 2.pdb
+C:\Users\Jorov\source\repos\Programming for QA with C#\ExamPrep\Test 2\obj\Debug\net6.0\Test 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jorov\source\repos\Programming for QA with C#\ExamPrep\Test 2\obj\Debug\net6.0\Test 2.AssemblyInfoInputs.cache
+C:\Users\Jorov\source\repos\Programming for QA with C#\ExamPrep\Test 2\obj\Debug\net6.0\Test 2.AssemblyInfo.cs
+C:\Users\Jorov\source\repos\Programming for QA with C#\ExamPrep\Test 2\obj\Debug\net6.0\Test 2.csproj.CoreCompileInputs.cache
+C:\Users\Jorov\source\repos\Programming for QA with C#\ExamPrep\Test 2\obj\Debug\net6.0\Test 2.sourcelink.json
+C:\Users\Jorov\source\repos\Programming for QA with C#\ExamPrep\Test 2\obj\Debug\net6.0\Test 2.dll
+C:\Users\Jorov\source\repos\Programming for QA with C#\ExamPrep\Test 2\obj\Debug\net6.0\refint\Test 2.dll
+C:\Users\Jorov\source\repos\Programming for QA with C#\ExamPrep\Test 2\obj\Debug\net6.0\Test 2.pdb
+C:\Users\Jorov\source\repos\Programming for QA with C#\ExamPrep\Test 2\obj\Debug\net6.0\Test 2.genruntimeconfig.cache
+C:\Users\Jorov\source\repos\Programming for QA with C#\ExamPrep\Test 2\obj\Debug\net6.0\ref\Test 2.dll

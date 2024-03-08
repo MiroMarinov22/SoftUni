@@ -1,0 +1,15 @@
+C:\Users\Jorov\source\repos\Programming for QA with C#\Lab - Strings and Text Processing\2. Repeat Strings\bin\Debug\net6.0\2. Repeat Strings.exe
+C:\Users\Jorov\source\repos\Programming for QA with C#\Lab - Strings and Text Processing\2. Repeat Strings\bin\Debug\net6.0\2. Repeat Strings.deps.json
+C:\Users\Jorov\source\repos\Programming for QA with C#\Lab - Strings and Text Processing\2. Repeat Strings\bin\Debug\net6.0\2. Repeat Strings.runtimeconfig.json
+C:\Users\Jorov\source\repos\Programming for QA with C#\Lab - Strings and Text Processing\2. Repeat Strings\bin\Debug\net6.0\2. Repeat Strings.dll
+C:\Users\Jorov\source\repos\Programming for QA with C#\Lab - Strings and Text Processing\2. Repeat Strings\bin\Debug\net6.0\2. Repeat Strings.pdb
+C:\Users\Jorov\source\repos\Programming for QA with C#\Lab - Strings and Text Processing\2. Repeat Strings\obj\Debug\net6.0\2. Repeat Strings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jorov\source\repos\Programming for QA with C#\Lab - Strings and Text Processing\2. Repeat Strings\obj\Debug\net6.0\2. Repeat Strings.AssemblyInfoInputs.cache
+C:\Users\Jorov\source\repos\Programming for QA with C#\Lab - Strings and Text Processing\2. Repeat Strings\obj\Debug\net6.0\2. Repeat Strings.AssemblyInfo.cs
+C:\Users\Jorov\source\repos\Programming for QA with C#\Lab - Strings and Text Processing\2. Repeat Strings\obj\Debug\net6.0\2. Repeat Strings.csproj.CoreCompileInputs.cache
+C:\Users\Jorov\source\repos\Programming for QA with C#\Lab - Strings and Text Processing\2. Repeat Strings\obj\Debug\net6.0\2. Repeat Strings.sourcelink.json
+C:\Users\Jorov\source\repos\Programming for QA with C#\Lab - Strings and Text Processing\2. Repeat Strings\obj\Debug\net6.0\2. Repeat Strings.dll
+C:\Users\Jorov\source\repos\Programming for QA with C#\Lab - Strings and Text Processing\2. Repeat Strings\obj\Debug\net6.0\refint\2. Repeat Strings.dll
+C:\Users\Jorov\source\repos\Programming for QA with C#\Lab - Strings and Text Processing\2. Repeat Strings\obj\Debug\net6.0\2. Repeat Strings.pdb
+C:\Users\Jorov\source\repos\Programming for QA with C#\Lab - Strings and Text Processing\2. Repeat Strings\obj\Debug\net6.0\2. Repeat Strings.genruntimeconfig.cache
+C:\Users\Jorov\source\repos\Programming for QA with C#\Lab - Strings and Text Processing\2. Repeat Strings\obj\Debug\net6.0\ref\2. Repeat Strings.dll
