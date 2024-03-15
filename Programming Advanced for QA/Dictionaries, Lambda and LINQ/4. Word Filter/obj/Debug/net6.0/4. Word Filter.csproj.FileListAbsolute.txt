@@ -1,0 +1,15 @@
+C:\Users\Jorov\source\repos\Programming for QA with C#\Dictionaries, Lambda and LINQ\4. Word Filter\bin\Debug\net6.0\4. Word Filter.exe
+C:\Users\Jorov\source\repos\Programming for QA with C#\Dictionaries, Lambda and LINQ\4. Word Filter\bin\Debug\net6.0\4. Word Filter.deps.json
+C:\Users\Jorov\source\repos\Programming for QA with C#\Dictionaries, Lambda and LINQ\4. Word Filter\bin\Debug\net6.0\4. Word Filter.runtimeconfig.json
+C:\Users\Jorov\source\repos\Programming for QA with C#\Dictionaries, Lambda and LINQ\4. Word Filter\bin\Debug\net6.0\4. Word Filter.dll
+C:\Users\Jorov\source\repos\Programming for QA with C#\Dictionaries, Lambda and LINQ\4. Word Filter\bin\Debug\net6.0\4. Word Filter.pdb
+C:\Users\Jorov\source\repos\Programming for QA with C#\Dictionaries, Lambda and LINQ\4. Word Filter\obj\Debug\net6.0\4. Word Filter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jorov\source\repos\Programming for QA with C#\Dictionaries, Lambda and LINQ\4. Word Filter\obj\Debug\net6.0\4. Word Filter.AssemblyInfoInputs.cache
+C:\Users\Jorov\source\repos\Programming for QA with C#\Dictionaries, Lambda and LINQ\4. Word Filter\obj\Debug\net6.0\4. Word Filter.AssemblyInfo.cs
+C:\Users\Jorov\source\repos\Programming for QA with C#\Dictionaries, Lambda and LINQ\4. Word Filter\obj\Debug\net6.0\4. Word Filter.csproj.CoreCompileInputs.cache
+C:\Users\Jorov\source\repos\Programming for QA with C#\Dictionaries, Lambda and LINQ\4. Word Filter\obj\Debug\net6.0\4. Word Filter.sourcelink.json
+C:\Users\Jorov\source\repos\Programming for QA with C#\Dictionaries, Lambda and LINQ\4. Word Filter\obj\Debug\net6.0\4. Word Filter.dll
+C:\Users\Jorov\source\repos\Programming for QA with C#\Dictionaries, Lambda and LINQ\4. Word Filter\obj\Debug\net6.0\refint\4. Word Filter.dll
+C:\Users\Jorov\source\repos\Programming for QA with C#\Dictionaries, Lambda and LINQ\4. Word Filter\obj\Debug\net6.0\4. Word Filter.pdb
+C:\Users\Jorov\source\repos\Programming for QA with C#\Dictionaries, Lambda and LINQ\4. Word Filter\obj\Debug\net6.0\4. Word Filter.genruntimeconfig.cache
+C:\Users\Jorov\source\repos\Programming for QA with C#\Dictionaries, Lambda and LINQ\4. Word Filter\obj\Debug\net6.0\ref\4. Word Filter.dll
